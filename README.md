@@ -2,7 +2,7 @@
 
 Continuous transaction categorization and reconciliation targeting very high accuracy.
 
-Built by **erron.ai**.
+Built by [Erron AI](https://erron.ai).
 
 ## Why this exists
 - Solve a concrete business problem with a practical, extensible baseline.
